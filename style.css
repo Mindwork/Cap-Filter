@@ -1,0 +1,18 @@
+body {
+    background-image:url("background.jpg")
+}
+.heading {
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.btn1 {
+    font-weight: bolder !important;
+    font-size: 20px;
+}
+canvas {
+    border: dotted black 5px;
+    animation-name: wig;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+}
